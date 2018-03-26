@@ -13,14 +13,6 @@ Features:
 1. Pulls data from Facebook Marketing API for last_30d or last_90d AND today (by default last_30d or last_90d does not include today)
 2. Pulls data for Archived Ads as well for above mentioned periods (by default data for archived ads are not included)
 
-Date model:
-
-![](docs/DataModel.PNG)
-
-Campaign Insight Report page:
-
-![](docs/CampaignInsightsReportPage.png)
-
 ## How to get Ad Account ID?
 
 1. Login to your Facebook account. 
