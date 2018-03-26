@@ -1,4 +1,4 @@
-# Facebook marketing API Power BI Template
+# Facebook Marketing API Power BI Template
 
 A simple to use Power BI Template file for Facebook Marketing/Ads API. It requires two inputs
 
