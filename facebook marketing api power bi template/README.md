@@ -12,6 +12,7 @@ The template file has a data model and two report pages which shows your campaig
 Features:
 1. Pulls data from Facebook Marketing API for last_30d or last_90d AND today (by default last_30d or last_90d does not include today)
 2. Pulls data for Archived Ads as well for above mentioned periods (by default data for archived ads are not included)
+3. You can publish this to PowerBI.com, setup daily or hourly refreshes and enjoy your campaign insights!
 
 ## How to get Ad Account ID?
 
@@ -42,7 +43,12 @@ Extend the token
 
 3. The token now generated is valid for 2 months
 
-Note: If you face any issues in using this please open up an issue in the tracker for me to check and respond.
+## Troubleshooting
+
+1. Check if your token is valid or not
+2. If 500 error comes, get data for last_30d. If using that also you get error, get data with "reporting granularity" as 2 or 5 and then retry. In most cases it works fine.
+
+Note: If you face any other issues in using this please open up an issue in the tracker for me to check and respond.
 
 Thanks
 
