@@ -1,18 +1,18 @@
 # Facebook Marketing API Power BI Template
 
-A simple to use Power BI Template file for Facebook Marketing/Ads API. It requires two inputs
+A simple to use Power BI Template file for Facebook Marketing/Ads API for analysing campaign performance at campaign, ad set and ad levels. The template requires two inputs:
 
 1. Ad Account ID
 2. Access token
 
 Other inputs are optional and have default value set. 
 
-The template file has a data model and two report pages which shows your campaign insights.
+The template file has a data model and one report page which shows your campaign insights.
 
 Features:
 1. Pulls data from Facebook Marketing API for last_30d or last_90d AND today (by default last_30d or last_90d does not include today)
 2. Pulls data for Archived Ads as well for above mentioned periods (by default data for archived ads are not included)
-3. You can publish this to PowerBI.com, setup daily or hourly refreshes and enjoy your campaign insights!
+3. You can publish this to PowerBI.com, setup daily or hourly refreshes and view your campaign insights!
 
 ## How to get Ad Account ID?
 
@@ -20,7 +20,7 @@ Features:
 2. From top right drop down select create ads. You will now directed towards Facebook ads manager page. 
 3. Click settings 
 
-You'll now see your account id.
+You'll now see your Ad Account ID.
 
 ## How to get Access token?
 
