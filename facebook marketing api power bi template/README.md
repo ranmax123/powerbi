@@ -15,7 +15,7 @@ Features:
 
 Date model:
 
-![](docs/DataModel.png)
+![](docs/DataModel.PNG)
 
 Campaign Insight Report page:
 
@@ -37,16 +37,19 @@ You'll now see your account id.
 
 ![](docs/ShortLivedToken.png)
 
-4. Go to Settings->advanced, add the current ad account to the API and save changes
+4. Go to App Settings->advanced, add the current ad account to the API and save changes
+
+![](docs/EnableAdsInAPI.png)
 
 Extend the token
 
 1. Go to https://developers.facebook.com/tools/debug/accesstoken
-2. Copy the token generated and click "Extend Token", and follow along
+2. Copy the token generated in step 3 above, and click "Extend Token", and follow along
 
 ![](docs/ExtendAccessToken.png)
 
 3. The token now generated is valid for 2 months
+
 Note: If you face any issues in using this please open up an issue in the tracker for me to check and respond.
 
 Thanks
