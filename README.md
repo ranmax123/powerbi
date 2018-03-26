@@ -1,2 +1,4 @@
-# powerbi
-resources for power bi
+# Power BI
+Resources for Power BI and data analytics with Power BI
+
+
