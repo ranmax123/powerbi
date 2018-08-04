@@ -1,5 +1,7 @@
 # Facebook Marketing API Power BI Template
 
+This template has been moved to my website: https://t.co/keZQe3FFmL
+
 A simple to use Power BI Template file for Facebook Marketing/Ads API for analysing campaign performance at campaign, ad set and ad levels. The template requires two inputs:
 
 1. Ad Account ID
